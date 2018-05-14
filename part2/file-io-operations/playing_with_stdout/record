@@ -1,0 +1,3 @@
+This is a record
+change_stdout.rb:6:in `/': divided by 0 (ZeroDivisionError)
+	from change_stdout.rb:6:in `<main>'
